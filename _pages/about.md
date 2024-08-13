@@ -12,14 +12,14 @@ I am an Associate Professor in the Department of Computer Science and Engineerin
 
 Research and Education Interests
 ======
-System and Software Security 
-AI (LLM, AGI, and AIGC)
-Trust Computing 
-Cloud, Mobile, and IoT Security
-Intrusion Detection, Prevention, and Correlation
-Simulation
-Steganography and Side-Channel
-Computer Education
+<br>System and Software Security 
+<br>AI (LLM, AGI, and AIGC)
+<br>Trust Computing 
+<br>Cloud, Mobile, and IoT Security
+<br>Intrusion Detection, Prevention, and Correlation
+<br>Simulation
+<br>Steganography and Side-Channel
+<br>Computer Education
 
 Getting started
 ======
