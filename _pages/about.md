@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the Department of [Computer Science and Engineering](https://www.oakland.edu/secs/directory/liu/) at the Oakland University. I received my Ph.D. degree from the Department of Computer Science at George Mason University.
+I am an Associate Professor in the Department of [Computer Science and Engineering](https://www.oakland.edu/secs/directory/liu/) at the Oakland University. I received my Ph.D. degree from the [Department of Computer Science](https://cs.gmu.edu/) at George Mason University.
 
 
 
