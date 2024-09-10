@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "1"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description: "Associate Professor of Engineering, Department of Computer Science and Engineering, School of Engineering and Computer Science, Oakland University"
@@ -24,7 +24,7 @@ author:
   avatar           : "anyiliu.jpg"
   name             : "Anyi Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at Oakland University"
+  bio              : "Associate Professor at [Oakland University](https://oakland.edu)"
   location         : " Rochester, MI"
   employer         : "Oakland University"
   uri              : # URL
