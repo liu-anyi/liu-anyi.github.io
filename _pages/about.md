@@ -11,7 +11,7 @@ I am an Associate Professor in the Department of [Computer Science and Engineeri
 
 
 
-Research and Education Interests
+Research Interests
 ======
 * System and Software Security 
 * AI (LLM, AGI, and AIGC)
