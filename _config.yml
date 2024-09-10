@@ -24,9 +24,9 @@ author:
   avatar           : "anyiliu.jpg"
   name             : "Anyi Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at [Oakland University](https://oakland.edu)"
+  bio              : "Associate Professor at Oakland University"
   location         : " Rochester, MI"
-  employer         : "Oakland University"
+  employer         : "Oakland University[Oakland University](https://oakland.edu)"
   uri              : # URL
   email            : " anyiliu@oakland.edu" 
 
