@@ -15,14 +15,14 @@ Research and Education Interests
 ======
 * System and Software Security 
 * AI (LLM, AGI, and AIGC)
-* Trust Computing 
+* Trusted Computing 
 * Cloud, Mobile, and IoT Security
 * Intrusion Detection, Prevention, and Correlation
 * Simulation
 * Steganography and Side-Channel
 * Computer Education
 
-Opening
+Position Opening
 ======
 I seek **self-motivated Ph.D./Master/Undergraduate students** with solid **Cybersecurity** and **Computer Systems** backgrounds. Further, just like me, you must be passionate about **Artificial Intelligence** and **LLMs**. If you want to pursue a Ph.D. under my supervision, please email me your **CV, transcripts,** and/or **publications**. Visiting scholars and capable students (high school and above) are also welcome.
 
