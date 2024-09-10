@@ -6,8 +6,6 @@
 
 main:
 
-  # - title: "Anyi(Andy) Liu"
-    url: /
     
   - title: "Publications"
     url: /publications/
